@@ -2,7 +2,7 @@
 
 This is a sample flask program to upload file to IBM Cloud Object Storage 
 
-Replace the below with the credentials of Service Creentials of IBM Clou Object Storage
+Replace the below XXXXX with the credentials of Service Credentials of IBM Cloud Object Storage
 
 COS_ENDPOINT = "XXXXXX" # Current list avaiable at https://control.cloud-object-storage.cloud.ibm.com/v2/endpoints
 
