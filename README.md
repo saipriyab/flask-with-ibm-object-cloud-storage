@@ -28,3 +28,7 @@ python app.py
 
 
 url:  http://127.0.0.1:8080/uploader
+
+References
+-----
+https://cloud.ibm.com/docs/cloud-object-storage?topic=cloud-object-storage-python
