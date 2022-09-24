@@ -1,5 +1,10 @@
 # flask-with-ibm-object-cloud-storage
 
+Need to install  ibm-cos-sdk library
+
+pip install ibm-cos-sdk
+
+
 This is a sample flask program to upload file to IBM Cloud Object Storage 
 
 Replace the below XXXXX with the credentials of Service Credentials of IBM Cloud Object Storage
